@@ -3,9 +3,9 @@ My entry for the Ludum Dare 34 game jam. The game jam's theme was "Two Button Co
 
 Built using the Unity game engine (version: 5.2.2f1)
 
-Entry page: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=29419
+Entry page is [here](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=29419)
 
-Download compiled game: https://hobblygobbly.itch.io/last-ditch-voyage-ludum-dare-34-jam-game
+Download compiled game [here](https://hobblygobbly.itch.io/last-ditch-voyage-ludum-dare-34-jam-game)
 
 ## Description:
 
