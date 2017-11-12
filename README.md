@@ -51,5 +51,5 @@ Objective: Discover all the planets, don't run out of resources, and don't be de
 ![alt text](https://i.imgur.com/t9FppM7.png)
 ![alt text](https://i.imgur.com/TgaApwk.png)
 ![alt text](https://i.imgur.com/5K1j1GV.png)
-![alt text](hhttps://i.imgur.com/FpmxacY.png)
+![alt text](https://i.imgur.com/FpmxacY.png)
 
