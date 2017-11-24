@@ -1,5 +1,5 @@
 # ludum-dare-34
-My entry for the Ludum Dare 34 game jam. The game jam's theme was "Two Button Controls".
+My entry for the Ludum Dare 34 (December 2015) game jam. The game jam's theme was "Two Button Controls". The game was developed over the course of the weekend.
 
 Built using the Unity game engine (version: 5.2.2f1). Language used: C#
 
